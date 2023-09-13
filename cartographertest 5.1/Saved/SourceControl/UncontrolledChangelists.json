@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Tyler/Documents/Unreal Projects/cartographertest 5.1/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Tyler/Documents/Unreal Projects/cartographertest 5.1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Tyler/Documents/Unreal Projects/cartographertest 5.1/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap",
+				"C:/Users/Tyler/Documents/Unreal Projects/cartographertest 5.1/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset"
+			]
+		}
+	]
+}
