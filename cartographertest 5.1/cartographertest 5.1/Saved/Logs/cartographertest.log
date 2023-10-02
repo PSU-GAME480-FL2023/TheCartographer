@@ -1171,3 +1171,26 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2023.10.02-19.18.23:443][553]LogSavePackage: Moving '../../../../../../Game Cartographer/The CartographerUpdated/TheCartographer/cartographertest 5.1/cartographertest 5.1/Saved/2DSideScrollerExampleMap_Auto1F6BA22EE4E7CAA0678173AAC0AFDD29A.tmp' to '../../../../../../Game Cartographer/The CartographerUpdated/TheCartographer/cartographertest 5.1/cartographertest 5.1/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto1.umap'
 [2023.10.02-19.18.23:449][553]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.051
 [2023.10.02-19.18.23:449][553]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2023.10.02-19.21.30:389][114]LogAssetRegistry: Error: Package C:/Game Cartographer/The CartographerUpdated/TheCartographer/cartographertest 5.1/cartographertest 5.1/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset has malformed tag
+[2023.10.02-19.21.30:389][114]LogAssetRegistry: Error: Package C:/Game Cartographer/The CartographerUpdated/TheCartographer/cartographertest 5.1/cartographertest 5.1/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset has malformed tag
+[2023.10.02-19.22.12:503][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.02-19.22.12:542][399]LogSavePackage: Moving output files for package: /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter
+[2023.10.02-19.22.12:542][399]LogSavePackage: Moving '../../../../../../Game Cartographer/The CartographerUpdated/TheCartographer/cartographertest 5.1/cartographertest 5.1/Saved/2DSideScrollerCharacterE58572C74CC5B5115438449A5FB7CD1D.tmp' to '../../../../../../Game Cartographer/The CartographerUpdated/TheCartographer/cartographertest 5.1/cartographertest 5.1/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2023.10.02-19.22.12:548][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 229 ms)
+[2023.10.02-19.22.12:559][399]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2023.10.02-19.22.12:559][399]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2023.10.02-19.22.43:971][612]LogAssetRegistry: Error: Package C:/Game Cartographer/The CartographerUpdated/TheCartographer/cartographertest 5.1/cartographertest 5.1/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset has malformed tag
+[2023.10.02-19.22.43:971][612]LogAssetRegistry: Error: Package C:/Game Cartographer/The CartographerUpdated/TheCartographer/cartographertest 5.1/cartographertest 5.1/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset has malformed tag
+[2023.10.02-19.23.42:219][ 21]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.RecastNavMesh-Default).
+[2023.10.02-19.23.43:031][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.02-19.23.43:079][ 68]LogSavePackage: Moving output files for package: /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter
+[2023.10.02-19.23.43:089][ 68]LogSavePackage: Moving '../../../../../../Game Cartographer/The CartographerUpdated/TheCartographer/cartographertest 5.1/cartographertest 5.1/Saved/2DSideScrollerCharacter47A63CE64E7BCBB2FE14B78B2C493A68.tmp' to '../../../../../../Game Cartographer/The CartographerUpdated/TheCartographer/cartographertest 5.1/cartographertest 5.1/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2023.10.02-19.23.43:096][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 294 ms)
+[2023.10.02-19.23.43:104][ 68]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2023.10.02-19.23.43:104][ 68]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2023.10.02-19.23.44:214][135]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.02-19.23.44:251][135]LogSavePackage: Moving output files for package: /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter
+[2023.10.02-19.23.44:251][135]LogSavePackage: Moving '../../../../../../Game Cartographer/The CartographerUpdated/TheCartographer/cartographertest 5.1/cartographertest 5.1/Saved/2DSideScrollerCharacterF394C784403EB48CD09678AA72E0DD2F.tmp' to '../../../../../../Game Cartographer/The CartographerUpdated/TheCartographer/cartographertest 5.1/cartographertest 5.1/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2023.10.02-19.23.44:256][135]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 336 ms)
+[2023.10.02-19.23.44:263][135]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2023.10.02-19.23.44:263][135]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
