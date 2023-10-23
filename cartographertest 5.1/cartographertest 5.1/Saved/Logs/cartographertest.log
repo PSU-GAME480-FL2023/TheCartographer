@@ -6624,3 +6624,47 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.10.23-18.24.20:938][798]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 5.54 sec)
 [2023.10.23-18.24.20:948][798]AssetCheck: New page: Asset Save: Tutorial
 [2023.10.23-18.24.20:948][798]LogContentValidation: Display: Validating /Script/Engine.World /Game/2DSideScrollerBP/Maps/Tutorial.Tutorial
+[2023.10.23-18.30.49:400][461]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/PlayerSprites/cartIdle_Sprite_7.cartIdle_Sprite_7
+[2023.10.23-18.30.49:401][461]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-18.30.49:474][461]LogViewport: Scene viewport resized to 1523x858, mode Windowed.
+[2023.10.23-18.30.51:419][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.23-18.30.51:442][576]LogSavePackage: Moving output files for package: /Game/2DSideScroller/Sprites/PlayerSprites/cartIdle_Sprite_7
+[2023.10.23-18.30.51:442][576]LogSavePackage: Moving '../../../../../../Game Cartographer/The CartographerUpdated/TheCartographer/cartographertest 5.1/cartographertest 5.1/Saved/cartIdle_Sprite_7ADCC6D4947AEC2CE641238B0F476BAAE.tmp' to '../../../../../../Game Cartographer/The CartographerUpdated/TheCartographer/cartographertest 5.1/cartographertest 5.1/Content/2DSideScroller/Sprites/PlayerSprites/cartIdle_Sprite_7.uasset'
+[2023.10.23-18.30.51:450][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 31 ms (total: 5.57 sec)
+[2023.10.23-18.30.51:458][576]AssetCheck: New page: Asset Save: cartIdle_Sprite_7
+[2023.10.23-18.30.51:458][576]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/2DSideScroller/Sprites/PlayerSprites/cartIdle_Sprite_7.cartIdle_Sprite_7
+[2023.10.23-18.30.56:381][777]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/PlayerSprites/cartIdle_Sprite_6.cartIdle_Sprite_6
+[2023.10.23-18.30.56:382][777]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-18.30.56:447][777]LogViewport: Scene viewport resized to 1523x858, mode Windowed.
+[2023.10.23-18.30.57:197][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.23-18.30.57:219][821]LogSavePackage: Moving output files for package: /Game/2DSideScroller/Sprites/PlayerSprites/cartIdle_Sprite_6
+[2023.10.23-18.30.57:219][821]LogSavePackage: Moving '../../../../../../Game Cartographer/The CartographerUpdated/TheCartographer/cartographertest 5.1/cartographertest 5.1/Saved/cartIdle_Sprite_62395ADF44D4A81040D7A3FA9B6668098.tmp' to '../../../../../../Game Cartographer/The CartographerUpdated/TheCartographer/cartographertest 5.1/cartographertest 5.1/Content/2DSideScroller/Sprites/PlayerSprites/cartIdle_Sprite_6.uasset'
+[2023.10.23-18.30.57:227][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 30 ms (total: 5.60 sec)
+[2023.10.23-18.30.57:235][821]AssetCheck: New page: Asset Save: cartIdle_Sprite_6
+[2023.10.23-18.30.57:235][821]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/2DSideScroller/Sprites/PlayerSprites/cartIdle_Sprite_6.cartIdle_Sprite_6
+[2023.10.23-18.30.59:179][938]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/PlayerSprites/cartIdle_Sprite_5.cartIdle_Sprite_5
+[2023.10.23-18.30.59:179][938]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-18.30.59:242][938]LogViewport: Scene viewport resized to 1523x858, mode Windowed.
+[2023.10.23-18.30.59:768][968]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.23-18.30.59:793][968]LogSavePackage: Moving output files for package: /Game/2DSideScroller/Sprites/PlayerSprites/cartIdle_Sprite_5
+[2023.10.23-18.30.59:793][968]LogSavePackage: Moving '../../../../../../Game Cartographer/The CartographerUpdated/TheCartographer/cartographertest 5.1/cartographertest 5.1/Saved/cartIdle_Sprite_5CA03DD934C62E893CFEC37AA18B5972E.tmp' to '../../../../../../Game Cartographer/The CartographerUpdated/TheCartographer/cartographertest 5.1/cartographertest 5.1/Content/2DSideScroller/Sprites/PlayerSprites/cartIdle_Sprite_5.uasset'
+[2023.10.23-18.30.59:801][968]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 5.63 sec)
+[2023.10.23-18.30.59:809][968]AssetCheck: New page: Asset Save: cartIdle_Sprite_5
+[2023.10.23-18.30.59:809][968]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/2DSideScroller/Sprites/PlayerSprites/cartIdle_Sprite_5.cartIdle_Sprite_5
+[2023.10.23-18.31.00:985][ 39]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/PlayerSprites/cartIdle_Sprite_4.cartIdle_Sprite_4
+[2023.10.23-18.31.00:985][ 39]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.23-18.31.01:059][ 39]LogViewport: Scene viewport resized to 1523x858, mode Windowed.
+[2023.10.23-18.31.01:624][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.23-18.31.01:644][ 72]LogSavePackage: Moving output files for package: /Game/2DSideScroller/Sprites/PlayerSprites/cartIdle_Sprite_4
+[2023.10.23-18.31.01:645][ 72]LogSavePackage: Moving '../../../../../../Game Cartographer/The CartographerUpdated/TheCartographer/cartographertest 5.1/cartographertest 5.1/Saved/cartIdle_Sprite_43887EE5B4EEFF79901B7FB9590E5AC6A.tmp' to '../../../../../../Game Cartographer/The CartographerUpdated/TheCartographer/cartographertest 5.1/cartographertest 5.1/Content/2DSideScroller/Sprites/PlayerSprites/cartIdle_Sprite_4.uasset'
+[2023.10.23-18.31.01:653][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave took 28 ms (total: 5.66 sec)
+[2023.10.23-18.31.01:661][ 72]AssetCheck: New page: Asset Save: cartIdle_Sprite_4
+[2023.10.23-18.31.01:661][ 72]LogContentValidation: Display: Validating /Script/Paper2D.PaperSprite /Game/2DSideScroller/Sprites/PlayerSprites/cartIdle_Sprite_4.cartIdle_Sprite_4
+[2023.10.23-18.31.03:086][158]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/2DSideScroller/Sprites/PlayerSprites/cartIdle.cartIdle
+[2023.10.23-18.31.03:158][158]LogViewport: Scene viewport resized to 1419x853, mode Windowed.
+[2023.10.23-18.31.03:664][188]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.23-18.31.03:688][188]LogSavePackage: Moving output files for package: /Game/2DSideScroller/Sprites/PlayerSprites/cartIdle
+[2023.10.23-18.31.03:688][188]LogSavePackage: Moving '../../../../../../Game Cartographer/The CartographerUpdated/TheCartographer/cartographertest 5.1/cartographertest 5.1/Saved/cartIdleEC9136164FCD0B9F282D1EBB69F3C229.tmp' to '../../../../../../Game Cartographer/The CartographerUpdated/TheCartographer/cartographertest 5.1/cartographertest 5.1/Content/2DSideScroller/Sprites/PlayerSprites/cartIdle.uasset'
+[2023.10.23-18.31.03:694][188]LogFileHelpers: InternalPromptForCheckoutAndSave took 29 ms (total: 5.69 sec)
+[2023.10.23-18.31.03:703][188]AssetCheck: New page: Asset Save: cartIdle
+[2023.10.23-18.31.03:703][188]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/2DSideScroller/Sprites/PlayerSprites/cartIdle.cartIdle
